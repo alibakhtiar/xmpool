@@ -1,2 +1,2 @@
 # xmpool
-X-Memory Pool
+Nginx memory pool.
